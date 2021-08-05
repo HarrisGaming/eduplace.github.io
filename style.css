@@ -377,3 +377,7 @@ body {
     left: 0;
 }
 
+.vocabulary{
+    position: center;
+    width: 1000px;
+}
